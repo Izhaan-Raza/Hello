@@ -65,7 +65,7 @@ body {
   justify-content: space-between;
   height: 100vh;
   /* background: url(phompto2.png) no-repeat center; */
-  background: url(phomto.png) no-repeat center;
+  background: url(phompto2.png) no-repeat center;
   background-position: right;
   background-size: 1200px;
   display: flex;
@@ -202,7 +202,7 @@ body {
 
 @media screen and (max-width: 800px) {
   .home {
-    background: url(phompto2.png) no-repeat center;
+    background: url(phomto.png) no-repeat center;
 
     background-position: center;
   }
