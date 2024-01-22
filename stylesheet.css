@@ -202,8 +202,8 @@ body {
 
 @media screen and (max-width: 800px) {
   .home {
-    background: url(lowermoon.png) no-repeat center;
-
+    background: url(moon.png) no-repeat center;
+    background-size: 600px;
     background-position: right;
   }
 }
